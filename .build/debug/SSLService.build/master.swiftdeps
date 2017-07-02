@@ -1,0 +1,5 @@
+version: "Swift version 3.1.1 (swift-3.1.1-RELEASE)"
+options: "8d868179c6f20da86dfa5b599e02d0b3"
+build_time: [552302374, 306424000]
+inputs:
+  "/root/hello-api/.build/checkouts/BlueSSLService.git--6577639804771281610/Sources/SSLService.swift": [552298311, 0]

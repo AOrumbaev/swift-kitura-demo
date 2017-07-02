@@ -1,0 +1,23 @@
+{
+  "": {
+    "swift-dependencies": "/root/hello-api/.build/debug/Socket.build/master.swiftdeps"
+  },
+  "/root/hello-api/.build/checkouts/BlueSocket.git-3162807777605905816/Sources/Socket.swift": {
+    "dependencies": "/root/hello-api/.build/debug/Socket.build/Socket.d",
+    "object": "/root/hello-api/.build/debug/Socket.build/Socket.swift.o",
+    "swiftmodule": "/root/hello-api/.build/debug/Socket.build/Socket~partial.swiftmodule",
+    "swift-dependencies": "/root/hello-api/.build/debug/Socket.build/Socket.swiftdeps"
+  },
+  "/root/hello-api/.build/checkouts/BlueSocket.git-3162807777605905816/Sources/SocketProtocols.swift": {
+    "dependencies": "/root/hello-api/.build/debug/Socket.build/SocketProtocols.d",
+    "object": "/root/hello-api/.build/debug/Socket.build/SocketProtocols.swift.o",
+    "swiftmodule": "/root/hello-api/.build/debug/Socket.build/SocketProtocols~partial.swiftmodule",
+    "swift-dependencies": "/root/hello-api/.build/debug/Socket.build/SocketProtocols.swiftdeps"
+  },
+  "/root/hello-api/.build/checkouts/BlueSocket.git-3162807777605905816/Sources/SocketUtils.swift": {
+    "dependencies": "/root/hello-api/.build/debug/Socket.build/SocketUtils.d",
+    "object": "/root/hello-api/.build/debug/Socket.build/SocketUtils.swift.o",
+    "swiftmodule": "/root/hello-api/.build/debug/Socket.build/SocketUtils~partial.swiftmodule",
+    "swift-dependencies": "/root/hello-api/.build/debug/Socket.build/SocketUtils.swiftdeps"
+  }
+}

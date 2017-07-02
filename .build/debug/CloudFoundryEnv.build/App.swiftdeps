@@ -1,0 +1,146 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "App"
+provides-nominal:
+- "V15CloudFoundryEnv3App"
+- "CV15CloudFoundryEnv3App7Builder"
+- "VV15CloudFoundryEnv3App6Limits"
+provides-member:
+- ["V15CloudFoundryEnv3App", ""]
+- ["CV15CloudFoundryEnv3App7Builder", ""]
+- ["VV15CloudFoundryEnv3App6Limits", ""]
+depends-top-level:
+- "App"
+- "AssignmentPrecedence"
+- "Date"
+- "Int"
+- "String"
+- "TimeInterval"
+depends-member:
+- !private ["Ps9AnyObject", "App"]
+- !private ["Ps9AnyObject", "id"]
+- !private ["Ps9AnyObject", "instanceId"]
+- !private ["Ps9AnyObject", "instanceIndex"]
+- !private ["Ps9AnyObject", "limits"]
+- !private ["Ps9AnyObject", "name"]
+- !private ["Ps9AnyObject", "port"]
+- !private ["Ps9AnyObject", "spaceId"]
+- !private ["Ps9AnyObject", "startedAt"]
+- !private ["Ps9AnyObject", "uris"]
+- !private ["Ps9AnyObject", "version"]
+- ["Ps9AnyObject", ""]
+- ["V15CloudFoundryEnv3App", "App"]
+- ["V15CloudFoundryEnv3App", "Builder"]
+- ["V15CloudFoundryEnv3App", "Date"]
+- ["V15CloudFoundryEnv3App", "Int"]
+- ["V15CloudFoundryEnv3App", "Limits"]
+- ["V15CloudFoundryEnv3App", "String"]
+- ["V15CloudFoundryEnv3App", "TimeInterval"]
+- ["V15CloudFoundryEnv3App", "id"]
+- !private ["V15CloudFoundryEnv3App", "init"]
+- ["V15CloudFoundryEnv3App", "instanceId"]
+- ["V15CloudFoundryEnv3App", "instanceIndex"]
+- ["V15CloudFoundryEnv3App", "limits"]
+- ["V15CloudFoundryEnv3App", "name"]
+- ["V15CloudFoundryEnv3App", "port"]
+- ["V15CloudFoundryEnv3App", "spaceId"]
+- ["V15CloudFoundryEnv3App", "startedAt"]
+- ["V15CloudFoundryEnv3App", "startedAtTs"]
+- ["V15CloudFoundryEnv3App", "uris"]
+- ["V15CloudFoundryEnv3App", "version"]
+- ["CV15CloudFoundryEnv3App7Builder", "App"]
+- ["CV15CloudFoundryEnv3App7Builder", "Builder"]
+- ["CV15CloudFoundryEnv3App7Builder", "Date"]
+- ["CV15CloudFoundryEnv3App7Builder", "Int"]
+- ["CV15CloudFoundryEnv3App7Builder", "Limits"]
+- ["CV15CloudFoundryEnv3App7Builder", "String"]
+- ["CV15CloudFoundryEnv3App7Builder", "build"]
+- ["CV15CloudFoundryEnv3App7Builder", "deinit"]
+- ["CV15CloudFoundryEnv3App7Builder", "id"]
+- ["CV15CloudFoundryEnv3App7Builder", "init"]
+- ["CV15CloudFoundryEnv3App7Builder", "instanceId"]
+- ["CV15CloudFoundryEnv3App7Builder", "instanceIndex"]
+- ["CV15CloudFoundryEnv3App7Builder", "limits"]
+- ["CV15CloudFoundryEnv3App7Builder", "name"]
+- ["CV15CloudFoundryEnv3App7Builder", "port"]
+- ["CV15CloudFoundryEnv3App7Builder", "setId"]
+- ["CV15CloudFoundryEnv3App7Builder", "setInstanceId"]
+- ["CV15CloudFoundryEnv3App7Builder", "setInstanceIndex"]
+- ["CV15CloudFoundryEnv3App7Builder", "setLimits"]
+- ["CV15CloudFoundryEnv3App7Builder", "setName"]
+- ["CV15CloudFoundryEnv3App7Builder", "setPort"]
+- ["CV15CloudFoundryEnv3App7Builder", "setSpaceId"]
+- ["CV15CloudFoundryEnv3App7Builder", "setStartedAt"]
+- ["CV15CloudFoundryEnv3App7Builder", "setUris"]
+- ["CV15CloudFoundryEnv3App7Builder", "setVersion"]
+- ["CV15CloudFoundryEnv3App7Builder", "spaceId"]
+- ["CV15CloudFoundryEnv3App7Builder", "startedAt"]
+- ["CV15CloudFoundryEnv3App7Builder", "uris"]
+- ["CV15CloudFoundryEnv3App7Builder", "version"]
+- !private ["Ps10Comparable", "timeIntervalSince1970"]
+- !private ["Ps28CustomDebugStringConvertible", "timeIntervalSince1970"]
+- !private ["Ps29CustomPlaygroundQuickLookable", "timeIntervalSince1970"]
+- !private ["Ps17CustomReflectable", "timeIntervalSince1970"]
+- !private ["Ps23CustomStringConvertible", "timeIntervalSince1970"]
+- !private ["V10Foundation4Date", "timeIntervalSince1970"]
+- !private ["Ps9Equatable", "timeIntervalSince1970"]
+- !private ["Ps8Hashable", "timeIntervalSince1970"]
+- ["VV15CloudFoundryEnv3App6Limits", "Int"]
+- ["VV15CloudFoundryEnv3App6Limits", "disk"]
+- ["VV15CloudFoundryEnv3App6Limits", "fds"]
+- ["VV15CloudFoundryEnv3App6Limits", "init"]
+- ["VV15CloudFoundryEnv3App6Limits", "memory"]
+- !private ["P10Foundation20ReferenceConvertible", "timeIntervalSince1970"]
+- !private ["P10Foundation13_CFBridgeable", "timeIntervalSince1970"]
+- !private ["Ps9_Hashable", "timeIntervalSince1970"]
+- !private ["P10Foundation13_NSBridgeable", "timeIntervalSince1970"]
+- !private ["P10Foundation17_ObjectBridgeable", "timeIntervalSince1970"]
+- !private ["P10Foundation21_ObjectTypeBridgeable", "timeIntervalSince1970"]
+depends-nominal:
+- "Ps9AnyObject"
+- "V15CloudFoundryEnv3App"
+- "CV15CloudFoundryEnv3App7Builder"
+- !private "Ps10Comparable"
+- !private "Ps28CustomDebugStringConvertible"
+- !private "Ps29CustomPlaygroundQuickLookable"
+- !private "Ps17CustomReflectable"
+- !private "Ps23CustomStringConvertible"
+- !private "V10Foundation4Date"
+- !private "Ps9Equatable"
+- !private "Ps8Hashable"
+- "VV15CloudFoundryEnv3App6Limits"
+- !private "P10Foundation20ReferenceConvertible"
+- !private "P10Foundation13_CFBridgeable"
+- !private "Ps9_Hashable"
+- !private "P10Foundation13_NSBridgeable"
+- !private "P10Foundation17_ObjectBridgeable"
+- !private "P10Foundation21_ObjectTypeBridgeable"
+depends-dynamic-lookup:
+depends-external:
+- "/root/hello-api/.build/debug/LoggerAPI.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/Glibc.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/Dispatch.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/Foundation.swiftmodule"
+- "/root/hello-api/.build/debug/Configuration.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/Swift.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/usr/lib/swift/shims/SwiftStddef.h"
+- "/usr/lib/swift/shims/AssertionReporting.h"
+- "/usr/lib/swift/shims/SwiftStdbool.h"
+- "/usr/lib/swift/shims/RuntimeStubs.h"
+- "/usr/lib/swift/shims/LibcShims.h"
+- "/usr/lib/swift/shims/UnicodeShims.h"
+- "/usr/lib/swift/shims/RuntimeShims.h"
+- "/usr/lib/swift/shims/FoundationShims.h"
+- "/usr/lib/swift/shims/CoreFoundationShims.h"
+- "/usr/lib/swift/shims/GlobalObjects.h"
+- "/usr/lib/swift/shims/HeapObject.h"
+- "/usr/lib/swift/shims/SwiftStdint.h"
+- "/usr/lib/swift/shims/RefCount.h"
+- "/usr/lib/swift/shims/Visibility.h"
+- "/usr/lib/swift/linux/x86_64/glibc.modulemap"
+- "/root/hello-api/.build/debug/CHTTPParser.build/module.modulemap"
+- "/usr/lib/swift/dispatch/module.modulemap"
+- "/usr/lib/swift/CoreFoundation/module.modulemap"
+- "/usr/lib/swift/shims/module.modulemap"
+interface-hash: "ba939d9d4e17bcac17ca1d90c8f0a231"

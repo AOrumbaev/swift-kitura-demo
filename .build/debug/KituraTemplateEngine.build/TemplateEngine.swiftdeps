@@ -1,0 +1,57 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "RenderingOptions"
+- "NullRenderingOptions"
+- "TemplateEngine"
+provides-nominal:
+- "P20KituraTemplateEngine16RenderingOptions"
+- "V20KituraTemplateEngine20NullRenderingOptions"
+- "P20KituraTemplateEngine14TemplateEngine"
+provides-member:
+- ["P20KituraTemplateEngine16RenderingOptions", ""]
+- ["V20KituraTemplateEngine20NullRenderingOptions", ""]
+- ["P20KituraTemplateEngine14TemplateEngine", ""]
+- ["P20KituraTemplateEngine14TemplateEngine", "render"]
+- ["P20KituraTemplateEngine14TemplateEngine", "render"]
+- ["P20KituraTemplateEngine14TemplateEngine", "setRootPaths"]
+depends-top-level:
+- "NullRenderingOptions"
+- "RenderingOptions"
+- "String"
+- "TemplateEngine"
+depends-member:
+- ["V20KituraTemplateEngine20NullRenderingOptions", "deinit"]
+- ["V20KituraTemplateEngine20NullRenderingOptions", "init"]
+- ["P20KituraTemplateEngine16RenderingOptions", ""]
+- ["P20KituraTemplateEngine14TemplateEngine", "RenderingOptions"]
+- ["P20KituraTemplateEngine14TemplateEngine", "String"]
+- ["P20KituraTemplateEngine14TemplateEngine", "fileExtension"]
+- ["P20KituraTemplateEngine14TemplateEngine", "render"]
+- ["P20KituraTemplateEngine14TemplateEngine", "setRootPaths"]
+depends-nominal:
+- "V20KituraTemplateEngine20NullRenderingOptions"
+- "P20KituraTemplateEngine16RenderingOptions"
+- "P20KituraTemplateEngine14TemplateEngine"
+depends-dynamic-lookup:
+depends-external:
+- "/usr/lib/swift/linux/x86_64/Swift.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/usr/lib/swift/shims/SwiftStddef.h"
+- "/usr/lib/swift/shims/AssertionReporting.h"
+- "/usr/lib/swift/shims/SwiftStdbool.h"
+- "/usr/lib/swift/shims/RuntimeStubs.h"
+- "/usr/lib/swift/shims/LibcShims.h"
+- "/usr/lib/swift/shims/UnicodeShims.h"
+- "/usr/lib/swift/shims/RuntimeShims.h"
+- "/usr/lib/swift/shims/FoundationShims.h"
+- "/usr/lib/swift/shims/CoreFoundationShims.h"
+- "/usr/lib/swift/shims/GlobalObjects.h"
+- "/usr/lib/swift/shims/HeapObject.h"
+- "/usr/lib/swift/shims/SwiftStdint.h"
+- "/usr/lib/swift/shims/RefCount.h"
+- "/usr/lib/swift/shims/Visibility.h"
+- "/usr/lib/swift/linux/x86_64/glibc.modulemap"
+- "/usr/lib/swift/dispatch/module.modulemap"
+- "/usr/lib/swift/CoreFoundation/module.modulemap"
+- "/usr/lib/swift/shims/module.modulemap"
+interface-hash: "857a2c2bfe406845c55ee85873724a11"

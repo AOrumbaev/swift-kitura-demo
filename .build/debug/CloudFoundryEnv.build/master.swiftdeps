@@ -1,0 +1,10 @@
+version: "Swift version 3.1.1 (swift-3.1.1-RELEASE)"
+options: "8136e852803ad4f40784f682cc93ab6c"
+build_time: [552302372, 466840000]
+inputs:
+  "/root/hello-api/.build/checkouts/Swift-cfenv--6767409976302647106/Sources/CloudFoundryEnv/App.swift": [552298311, 0]
+  "/root/hello-api/.build/checkouts/Swift-cfenv--6767409976302647106/Sources/CloudFoundryEnv/AppEnv.swift": [552298311, 0]
+  "/root/hello-api/.build/checkouts/Swift-cfenv--6767409976302647106/Sources/CloudFoundryEnv/CollectionUtils.swift": [552298311, 0]
+  "/root/hello-api/.build/checkouts/Swift-cfenv--6767409976302647106/Sources/CloudFoundryEnv/DateUtils.swift": [552298311, 0]
+  "/root/hello-api/.build/checkouts/Swift-cfenv--6767409976302647106/Sources/CloudFoundryEnv/JSONUtils.swift": [552298311, 0]
+  "/root/hello-api/.build/checkouts/Swift-cfenv--6767409976302647106/Sources/CloudFoundryEnv/Service.swift": [552298311, 0]

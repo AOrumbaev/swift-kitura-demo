@@ -1,0 +1,41 @@
+{
+  "": {
+    "swift-dependencies": "/root/hello-api/.build/debug/Configuration.build/master.swiftdeps"
+  },
+  "/root/hello-api/.build/checkouts/Configuration.git--2683441109504822782/Sources/Configuration/ConfigurationManager.swift": {
+    "dependencies": "/root/hello-api/.build/debug/Configuration.build/ConfigurationManager.d",
+    "object": "/root/hello-api/.build/debug/Configuration.build/ConfigurationManager.swift.o",
+    "swiftmodule": "/root/hello-api/.build/debug/Configuration.build/ConfigurationManager~partial.swiftmodule",
+    "swift-dependencies": "/root/hello-api/.build/debug/Configuration.build/ConfigurationManager.swiftdeps"
+  },
+  "/root/hello-api/.build/checkouts/Configuration.git--2683441109504822782/Sources/Configuration/ConfigurationNode.swift": {
+    "dependencies": "/root/hello-api/.build/debug/Configuration.build/ConfigurationNode.d",
+    "object": "/root/hello-api/.build/debug/Configuration.build/ConfigurationNode.swift.o",
+    "swiftmodule": "/root/hello-api/.build/debug/Configuration.build/ConfigurationNode~partial.swiftmodule",
+    "swift-dependencies": "/root/hello-api/.build/debug/Configuration.build/ConfigurationNode.swiftdeps"
+  },
+  "/root/hello-api/.build/checkouts/Configuration.git--2683441109504822782/Sources/Configuration/Deserializer.swift": {
+    "dependencies": "/root/hello-api/.build/debug/Configuration.build/Deserializer.d",
+    "object": "/root/hello-api/.build/debug/Configuration.build/Deserializer.swift.o",
+    "swiftmodule": "/root/hello-api/.build/debug/Configuration.build/Deserializer~partial.swiftmodule",
+    "swift-dependencies": "/root/hello-api/.build/debug/Configuration.build/Deserializer.swiftdeps"
+  },
+  "/root/hello-api/.build/checkouts/Configuration.git--2683441109504822782/Sources/Configuration/PathUtilities.swift": {
+    "dependencies": "/root/hello-api/.build/debug/Configuration.build/PathUtilities.d",
+    "object": "/root/hello-api/.build/debug/Configuration.build/PathUtilities.swift.o",
+    "swiftmodule": "/root/hello-api/.build/debug/Configuration.build/PathUtilities~partial.swiftmodule",
+    "swift-dependencies": "/root/hello-api/.build/debug/Configuration.build/PathUtilities.swiftdeps"
+  },
+  "/root/hello-api/.build/checkouts/Configuration.git--2683441109504822782/Sources/Configuration/Deserializers/JSONDeserializer.swift": {
+    "dependencies": "/root/hello-api/.build/debug/Configuration.build/JSONDeserializer.d",
+    "object": "/root/hello-api/.build/debug/Configuration.build/Deserializers/JSONDeserializer.swift.o",
+    "swiftmodule": "/root/hello-api/.build/debug/Configuration.build/JSONDeserializer~partial.swiftmodule",
+    "swift-dependencies": "/root/hello-api/.build/debug/Configuration.build/JSONDeserializer.swiftdeps"
+  },
+  "/root/hello-api/.build/checkouts/Configuration.git--2683441109504822782/Sources/Configuration/Deserializers/PLISTDeserializer.swift": {
+    "dependencies": "/root/hello-api/.build/debug/Configuration.build/PLISTDeserializer.d",
+    "object": "/root/hello-api/.build/debug/Configuration.build/Deserializers/PLISTDeserializer.swift.o",
+    "swiftmodule": "/root/hello-api/.build/debug/Configuration.build/PLISTDeserializer~partial.swiftmodule",
+    "swift-dependencies": "/root/hello-api/.build/debug/Configuration.build/PLISTDeserializer.swiftdeps"
+  }
+}

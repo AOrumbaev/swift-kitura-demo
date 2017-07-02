@@ -1,0 +1,6 @@
+version: "Swift version 3.1.1 (swift-3.1.1-RELEASE)"
+options: "95cf0e7a24a87efeb4b40049db0742f9"
+build_time: [552302369, 716315000]
+inputs:
+  "/root/hello-api/.build/checkouts/SwiftyJSON.git--6955445084174387031/Source/LclJSONSerialization.swift": [552298310, 0]
+  "/root/hello-api/.build/checkouts/SwiftyJSON.git--6955445084174387031/Source/SwiftyJSON.swift": [552298310, 0]

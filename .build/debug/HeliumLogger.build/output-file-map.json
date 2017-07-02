@@ -1,0 +1,17 @@
+{
+  "": {
+    "swift-dependencies": "/root/hello-api/.build/debug/HeliumLogger.build/master.swiftdeps"
+  },
+  "/root/hello-api/.build/checkouts/HeliumLogger--1178602847914143943/Sources/HeliumLogger/HeliumLogger.swift": {
+    "dependencies": "/root/hello-api/.build/debug/HeliumLogger.build/HeliumLogger.d",
+    "object": "/root/hello-api/.build/debug/HeliumLogger.build/HeliumLogger.swift.o",
+    "swiftmodule": "/root/hello-api/.build/debug/HeliumLogger.build/HeliumLogger~partial.swiftmodule",
+    "swift-dependencies": "/root/hello-api/.build/debug/HeliumLogger.build/HeliumLogger.swiftdeps"
+  },
+  "/root/hello-api/.build/checkouts/HeliumLogger--1178602847914143943/Sources/HeliumLogger/HeliumStreamLogger.swift": {
+    "dependencies": "/root/hello-api/.build/debug/HeliumLogger.build/HeliumStreamLogger.d",
+    "object": "/root/hello-api/.build/debug/HeliumLogger.build/HeliumStreamLogger.swift.o",
+    "swiftmodule": "/root/hello-api/.build/debug/HeliumLogger.build/HeliumStreamLogger~partial.swiftmodule",
+    "swift-dependencies": "/root/hello-api/.build/debug/HeliumLogger.build/HeliumStreamLogger.swiftdeps"
+  }
+}

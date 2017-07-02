@@ -1,0 +1,7 @@
+version: "Swift version 3.1.1 (swift-3.1.1-RELEASE)"
+options: "531b31fde840e97bf493093799679589"
+build_time: [552302369, 706161000]
+inputs:
+  "/root/hello-api/.build/checkouts/BlueSocket.git-3162807777605905816/Sources/Socket.swift": [552298309, 0]
+  "/root/hello-api/.build/checkouts/BlueSocket.git-3162807777605905816/Sources/SocketProtocols.swift": [552298309, 0]
+  "/root/hello-api/.build/checkouts/BlueSocket.git-3162807777605905816/Sources/SocketUtils.swift": [552298309, 0]

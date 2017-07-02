@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "/root/hello-api/.build/debug/SSLService.build/master.swiftdeps"
+  },
+  "/root/hello-api/.build/checkouts/BlueSSLService.git--6577639804771281610/Sources/SSLService.swift": {
+    "dependencies": "/root/hello-api/.build/debug/SSLService.build/SSLService.d",
+    "object": "/root/hello-api/.build/debug/SSLService.build/SSLService.swift.o",
+    "swiftmodule": "/root/hello-api/.build/debug/SSLService.build/SSLService~partial.swiftmodule",
+    "swift-dependencies": "/root/hello-api/.build/debug/SSLService.build/SSLService.swiftdeps"
+  }
+}

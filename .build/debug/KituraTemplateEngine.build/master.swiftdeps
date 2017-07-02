@@ -1,0 +1,5 @@
+version: "Swift version 3.1.1 (swift-3.1.1-RELEASE)"
+options: "1f5ae5c000b755e3e765cb5b3e4af193"
+build_time: [552302370, 68319000]
+inputs:
+  "/root/hello-api/.build/checkouts/Kitura-TemplateEngine.git--5059963620657797085/Sources/KituraTemplateEngine/TemplateEngine.swift": [552298310, 0]

@@ -1,0 +1,5 @@
+version: "Swift version 3.1.1 (swift-3.1.1-RELEASE)"
+options: "c33b935d47ea6f8e99e026e230d4592c"
+build_time: [552302369, 716147000]
+inputs:
+  "/root/hello-api/.build/checkouts/LoggerAPI.git--6449715459278086880/Sources/LoggerAPI/Logger.swift": [552298309, 0]

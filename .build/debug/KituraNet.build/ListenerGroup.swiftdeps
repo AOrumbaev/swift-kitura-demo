@@ -1,0 +1,89 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "ListenerGroup"
+provides-nominal:
+- "C9KituraNet13ListenerGroup"
+provides-member:
+- ["C9KituraNet13ListenerGroup", ""]
+depends-top-level:
+- "AssignmentPrecedence"
+- "DispatchGroup"
+- "DispatchQueue"
+- !private "DispatchTime"
+- "DispatchWorkItem"
+- "ListenerGroup"
+depends-member:
+- ["Ps9AnyObject", "DispatchGroup"]
+- !private ["Ps9AnyObject", "DispatchTime"]
+- !private ["Ps9AnyObject", "ListenerGroup"]
+- !private ["Ps9AnyObject", "async"]
+- !private ["Ps9AnyObject", "group"]
+- ["Ps9AnyObject", "init"]
+- !private ["Ps9AnyObject", "wait"]
+- ["Ps9AnyObject", ""]
+- !private ["Ps10Comparable", "distantFuture"]
+- ["C8Dispatch13DispatchGroup", "init"]
+- !private ["C8Dispatch13DispatchGroup", "wait"]
+- !private ["C8Dispatch14DispatchObject", "async"]
+- ["C8Dispatch14DispatchObject", "init"]
+- !private ["C8Dispatch14DispatchObject", "wait"]
+- !private ["C8Dispatch13DispatchQueue", "async"]
+- !private ["V8Dispatch12DispatchTime", "distantFuture"]
+- !private ["Ps9Equatable", "distantFuture"]
+- ["C9KituraNet13ListenerGroup", "DispatchGroup"]
+- ["C9KituraNet13ListenerGroup", "DispatchQueue"]
+- !private ["C9KituraNet13ListenerGroup", "DispatchTime"]
+- ["C9KituraNet13ListenerGroup", "DispatchWorkItem"]
+- !private ["C9KituraNet13ListenerGroup", "ListenerGroup"]
+- ["C9KituraNet13ListenerGroup", "deinit"]
+- ["C9KituraNet13ListenerGroup", "enqueueAsynchronously"]
+- !private ["C9KituraNet13ListenerGroup", "group"]
+- ["C9KituraNet13ListenerGroup", "init"]
+- ["C9KituraNet13ListenerGroup", "waitForListeners"]
+depends-nominal:
+- "Ps9AnyObject"
+- !private "Ps10Comparable"
+- "C8Dispatch13DispatchGroup"
+- "C8Dispatch14DispatchObject"
+- !private "C8Dispatch13DispatchQueue"
+- !private "V8Dispatch12DispatchTime"
+- !private "Ps9Equatable"
+- "C9KituraNet13ListenerGroup"
+depends-dynamic-lookup:
+depends-external:
+- "/root/hello-api/.build/debug/LoggerAPI.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/Glibc.swiftmodule"
+- "/root/hello-api/.build/debug/SSLService.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/Dispatch.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/Foundation.swiftmodule"
+- "/root/hello-api/.build/debug/Signals.swiftmodule"
+- "/root/hello-api/.build/debug/Socket.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/Swift.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/usr/lib/swift/shims/SwiftStddef.h"
+- "/usr/lib/swift/shims/AssertionReporting.h"
+- "/usr/lib/swift/shims/SwiftStdbool.h"
+- "/root/hello-api/.build/checkouts/CEpoll.git-8210707245879727922/shim.h"
+- "/root/hello-api/.build/checkouts/Kitura-net.git--7410958935072501107/Sources/CHTTPParser/include/CHTTPParser.h"
+- "/root/hello-api/.build/checkouts/Kitura-net.git--7410958935072501107/Sources/CHTTPParser/include/http_parser.h"
+- "/usr/lib/swift/shims/RuntimeStubs.h"
+- "/root/hello-api/.build/checkouts/Kitura-net.git--7410958935072501107/Sources/CHTTPParser/include/utils.h"
+- "/usr/lib/swift/shims/LibcShims.h"
+- "/usr/lib/swift/shims/UnicodeShims.h"
+- "/usr/lib/swift/shims/RuntimeShims.h"
+- "/usr/lib/swift/shims/FoundationShims.h"
+- "/usr/lib/swift/shims/CoreFoundationShims.h"
+- "/usr/lib/swift/shims/GlobalObjects.h"
+- "/usr/lib/swift/shims/HeapObject.h"
+- "/usr/lib/swift/shims/SwiftStdint.h"
+- "/usr/lib/swift/shims/RefCount.h"
+- "/usr/lib/swift/shims/Visibility.h"
+- "/usr/lib/swift/linux/x86_64/glibc.modulemap"
+- "/root/hello-api/.build/checkouts/OpenSSL.git--585005744461001840/module.modulemap"
+- "/root/hello-api/.build/checkouts/CEpoll.git-8210707245879727922/module.modulemap"
+- "/root/hello-api/.build/checkouts/CCurl.git-8026296523752779197/module.modulemap"
+- "/root/hello-api/.build/debug/CHTTPParser.build/module.modulemap"
+- "/usr/lib/swift/dispatch/module.modulemap"
+- "/usr/lib/swift/CoreFoundation/module.modulemap"
+- "/usr/lib/swift/shims/module.modulemap"
+interface-hash: "0e14b8e91824aaeb0cb415d7bc4567f0"

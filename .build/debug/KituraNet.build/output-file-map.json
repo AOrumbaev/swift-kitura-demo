@@ -1,0 +1,215 @@
+{
+  "": {
+    "swift-dependencies": "/root/hello-api/.build/debug/KituraNet.build/master.swiftdeps"
+  },
+  "/root/hello-api/.build/checkouts/Kitura-net.git--7410958935072501107/Sources/KituraNet/BufferList.swift": {
+    "dependencies": "/root/hello-api/.build/debug/KituraNet.build/BufferList.d",
+    "object": "/root/hello-api/.build/debug/KituraNet.build/BufferList.swift.o",
+    "swiftmodule": "/root/hello-api/.build/debug/KituraNet.build/BufferList~partial.swiftmodule",
+    "swift-dependencies": "/root/hello-api/.build/debug/KituraNet.build/BufferList.swiftdeps"
+  },
+  "/root/hello-api/.build/checkouts/Kitura-net.git--7410958935072501107/Sources/KituraNet/ClientRequest.swift": {
+    "dependencies": "/root/hello-api/.build/debug/KituraNet.build/ClientRequest.d",
+    "object": "/root/hello-api/.build/debug/KituraNet.build/ClientRequest.swift.o",
+    "swiftmodule": "/root/hello-api/.build/debug/KituraNet.build/ClientRequest~partial.swiftmodule",
+    "swift-dependencies": "/root/hello-api/.build/debug/KituraNet.build/ClientRequest.swiftdeps"
+  },
+  "/root/hello-api/.build/checkouts/Kitura-net.git--7410958935072501107/Sources/KituraNet/ClientResponse.swift": {
+    "dependencies": "/root/hello-api/.build/debug/KituraNet.build/ClientResponse.d",
+    "object": "/root/hello-api/.build/debug/KituraNet.build/ClientResponse.swift.o",
+    "swiftmodule": "/root/hello-api/.build/debug/KituraNet.build/ClientResponse~partial.swiftmodule",
+    "swift-dependencies": "/root/hello-api/.build/debug/KituraNet.build/ClientResponse.swiftdeps"
+  },
+  "/root/hello-api/.build/checkouts/Kitura-net.git--7410958935072501107/Sources/KituraNet/ConnectionUpgradeFactory.swift": {
+    "dependencies": "/root/hello-api/.build/debug/KituraNet.build/ConnectionUpgradeFactory.d",
+    "object": "/root/hello-api/.build/debug/KituraNet.build/ConnectionUpgradeFactory.swift.o",
+    "swiftmodule": "/root/hello-api/.build/debug/KituraNet.build/ConnectionUpgradeFactory~partial.swiftmodule",
+    "swift-dependencies": "/root/hello-api/.build/debug/KituraNet.build/ConnectionUpgradeFactory.swiftdeps"
+  },
+  "/root/hello-api/.build/checkouts/Kitura-net.git--7410958935072501107/Sources/KituraNet/ConnectionUpgrader.swift": {
+    "dependencies": "/root/hello-api/.build/debug/KituraNet.build/ConnectionUpgrader.d",
+    "object": "/root/hello-api/.build/debug/KituraNet.build/ConnectionUpgrader.swift.o",
+    "swiftmodule": "/root/hello-api/.build/debug/KituraNet.build/ConnectionUpgrader~partial.swiftmodule",
+    "swift-dependencies": "/root/hello-api/.build/debug/KituraNet.build/ConnectionUpgrader.swiftdeps"
+  },
+  "/root/hello-api/.build/checkouts/Kitura-net.git--7410958935072501107/Sources/KituraNet/Error.swift": {
+    "dependencies": "/root/hello-api/.build/debug/KituraNet.build/Error.d",
+    "object": "/root/hello-api/.build/debug/KituraNet.build/Error.swift.o",
+    "swiftmodule": "/root/hello-api/.build/debug/KituraNet.build/Error~partial.swiftmodule",
+    "swift-dependencies": "/root/hello-api/.build/debug/KituraNet.build/Error.swiftdeps"
+  },
+  "/root/hello-api/.build/checkouts/Kitura-net.git--7410958935072501107/Sources/KituraNet/HeadersContainer.swift": {
+    "dependencies": "/root/hello-api/.build/debug/KituraNet.build/HeadersContainer.d",
+    "object": "/root/hello-api/.build/debug/KituraNet.build/HeadersContainer.swift.o",
+    "swiftmodule": "/root/hello-api/.build/debug/KituraNet.build/HeadersContainer~partial.swiftmodule",
+    "swift-dependencies": "/root/hello-api/.build/debug/KituraNet.build/HeadersContainer.swiftdeps"
+  },
+  "/root/hello-api/.build/checkouts/Kitura-net.git--7410958935072501107/Sources/KituraNet/IncomingSocketHandler.swift": {
+    "dependencies": "/root/hello-api/.build/debug/KituraNet.build/IncomingSocketHandler.d",
+    "object": "/root/hello-api/.build/debug/KituraNet.build/IncomingSocketHandler.swift.o",
+    "swiftmodule": "/root/hello-api/.build/debug/KituraNet.build/IncomingSocketHandler~partial.swiftmodule",
+    "swift-dependencies": "/root/hello-api/.build/debug/KituraNet.build/IncomingSocketHandler.swiftdeps"
+  },
+  "/root/hello-api/.build/checkouts/Kitura-net.git--7410958935072501107/Sources/KituraNet/IncomingSocketManager.swift": {
+    "dependencies": "/root/hello-api/.build/debug/KituraNet.build/IncomingSocketManager.d",
+    "object": "/root/hello-api/.build/debug/KituraNet.build/IncomingSocketManager.swift.o",
+    "swiftmodule": "/root/hello-api/.build/debug/KituraNet.build/IncomingSocketManager~partial.swiftmodule",
+    "swift-dependencies": "/root/hello-api/.build/debug/KituraNet.build/IncomingSocketManager.swiftdeps"
+  },
+  "/root/hello-api/.build/checkouts/Kitura-net.git--7410958935072501107/Sources/KituraNet/IncomingSocketProcessor.swift": {
+    "dependencies": "/root/hello-api/.build/debug/KituraNet.build/IncomingSocketProcessor.d",
+    "object": "/root/hello-api/.build/debug/KituraNet.build/IncomingSocketProcessor.swift.o",
+    "swiftmodule": "/root/hello-api/.build/debug/KituraNet.build/IncomingSocketProcessor~partial.swiftmodule",
+    "swift-dependencies": "/root/hello-api/.build/debug/KituraNet.build/IncomingSocketProcessor.swiftdeps"
+  },
+  "/root/hello-api/.build/checkouts/Kitura-net.git--7410958935072501107/Sources/KituraNet/IncomingSocketProcessorCreator.swift": {
+    "dependencies": "/root/hello-api/.build/debug/KituraNet.build/IncomingSocketProcessorCreator.d",
+    "object": "/root/hello-api/.build/debug/KituraNet.build/IncomingSocketProcessorCreator.swift.o",
+    "swiftmodule": "/root/hello-api/.build/debug/KituraNet.build/IncomingSocketProcessorCreator~partial.swiftmodule",
+    "swift-dependencies": "/root/hello-api/.build/debug/KituraNet.build/IncomingSocketProcessorCreator.swiftdeps"
+  },
+  "/root/hello-api/.build/checkouts/Kitura-net.git--7410958935072501107/Sources/KituraNet/ListenerGroup.swift": {
+    "dependencies": "/root/hello-api/.build/debug/KituraNet.build/ListenerGroup.d",
+    "object": "/root/hello-api/.build/debug/KituraNet.build/ListenerGroup.swift.o",
+    "swiftmodule": "/root/hello-api/.build/debug/KituraNet.build/ListenerGroup~partial.swiftmodule",
+    "swift-dependencies": "/root/hello-api/.build/debug/KituraNet.build/ListenerGroup.swiftdeps"
+  },
+  "/root/hello-api/.build/checkouts/Kitura-net.git--7410958935072501107/Sources/KituraNet/ServerRequest.swift": {
+    "dependencies": "/root/hello-api/.build/debug/KituraNet.build/ServerRequest.d",
+    "object": "/root/hello-api/.build/debug/KituraNet.build/ServerRequest.swift.o",
+    "swiftmodule": "/root/hello-api/.build/debug/KituraNet.build/ServerRequest~partial.swiftmodule",
+    "swift-dependencies": "/root/hello-api/.build/debug/KituraNet.build/ServerRequest.swiftdeps"
+  },
+  "/root/hello-api/.build/checkouts/Kitura-net.git--7410958935072501107/Sources/KituraNet/ServerResponse.swift": {
+    "dependencies": "/root/hello-api/.build/debug/KituraNet.build/ServerResponse.d",
+    "object": "/root/hello-api/.build/debug/KituraNet.build/ServerResponse.swift.o",
+    "swiftmodule": "/root/hello-api/.build/debug/KituraNet.build/ServerResponse~partial.swiftmodule",
+    "swift-dependencies": "/root/hello-api/.build/debug/KituraNet.build/ServerResponse.swiftdeps"
+  },
+  "/root/hello-api/.build/checkouts/Kitura-net.git--7410958935072501107/Sources/KituraNet/SPIUtils.swift": {
+    "dependencies": "/root/hello-api/.build/debug/KituraNet.build/SPIUtils.d",
+    "object": "/root/hello-api/.build/debug/KituraNet.build/SPIUtils.swift.o",
+    "swiftmodule": "/root/hello-api/.build/debug/KituraNet.build/SPIUtils~partial.swiftmodule",
+    "swift-dependencies": "/root/hello-api/.build/debug/KituraNet.build/SPIUtils.swiftdeps"
+  },
+  "/root/hello-api/.build/checkouts/Kitura-net.git--7410958935072501107/Sources/KituraNet/FastCGI/FastCGI.swift": {
+    "dependencies": "/root/hello-api/.build/debug/KituraNet.build/FastCGI.d",
+    "object": "/root/hello-api/.build/debug/KituraNet.build/FastCGI/FastCGI.swift.o",
+    "swiftmodule": "/root/hello-api/.build/debug/KituraNet.build/FastCGI~partial.swiftmodule",
+    "swift-dependencies": "/root/hello-api/.build/debug/KituraNet.build/FastCGI.swiftdeps"
+  },
+  "/root/hello-api/.build/checkouts/Kitura-net.git--7410958935072501107/Sources/KituraNet/FastCGI/FastCGIRecordCreate.swift": {
+    "dependencies": "/root/hello-api/.build/debug/KituraNet.build/FastCGIRecordCreate.d",
+    "object": "/root/hello-api/.build/debug/KituraNet.build/FastCGI/FastCGIRecordCreate.swift.o",
+    "swiftmodule": "/root/hello-api/.build/debug/KituraNet.build/FastCGIRecordCreate~partial.swiftmodule",
+    "swift-dependencies": "/root/hello-api/.build/debug/KituraNet.build/FastCGIRecordCreate.swiftdeps"
+  },
+  "/root/hello-api/.build/checkouts/Kitura-net.git--7410958935072501107/Sources/KituraNet/FastCGI/FastCGIRecordParser.swift": {
+    "dependencies": "/root/hello-api/.build/debug/KituraNet.build/FastCGIRecordParser.d",
+    "object": "/root/hello-api/.build/debug/KituraNet.build/FastCGI/FastCGIRecordParser.swift.o",
+    "swiftmodule": "/root/hello-api/.build/debug/KituraNet.build/FastCGIRecordParser~partial.swiftmodule",
+    "swift-dependencies": "/root/hello-api/.build/debug/KituraNet.build/FastCGIRecordParser.swiftdeps"
+  },
+  "/root/hello-api/.build/checkouts/Kitura-net.git--7410958935072501107/Sources/KituraNet/FastCGI/FastCGIServer.swift": {
+    "dependencies": "/root/hello-api/.build/debug/KituraNet.build/FastCGIServer.d",
+    "object": "/root/hello-api/.build/debug/KituraNet.build/FastCGI/FastCGIServer.swift.o",
+    "swiftmodule": "/root/hello-api/.build/debug/KituraNet.build/FastCGIServer~partial.swiftmodule",
+    "swift-dependencies": "/root/hello-api/.build/debug/KituraNet.build/FastCGIServer.swiftdeps"
+  },
+  "/root/hello-api/.build/checkouts/Kitura-net.git--7410958935072501107/Sources/KituraNet/FastCGI/FastCGIServerRequest.swift": {
+    "dependencies": "/root/hello-api/.build/debug/KituraNet.build/FastCGIServerRequest.d",
+    "object": "/root/hello-api/.build/debug/KituraNet.build/FastCGI/FastCGIServerRequest.swift.o",
+    "swiftmodule": "/root/hello-api/.build/debug/KituraNet.build/FastCGIServerRequest~partial.swiftmodule",
+    "swift-dependencies": "/root/hello-api/.build/debug/KituraNet.build/FastCGIServerRequest.swiftdeps"
+  },
+  "/root/hello-api/.build/checkouts/Kitura-net.git--7410958935072501107/Sources/KituraNet/FastCGI/FastCGIServerResponse.swift": {
+    "dependencies": "/root/hello-api/.build/debug/KituraNet.build/FastCGIServerResponse.d",
+    "object": "/root/hello-api/.build/debug/KituraNet.build/FastCGI/FastCGIServerResponse.swift.o",
+    "swiftmodule": "/root/hello-api/.build/debug/KituraNet.build/FastCGIServerResponse~partial.swiftmodule",
+    "swift-dependencies": "/root/hello-api/.build/debug/KituraNet.build/FastCGIServerResponse.swiftdeps"
+  },
+  "/root/hello-api/.build/checkouts/Kitura-net.git--7410958935072501107/Sources/KituraNet/HTTP/HTTP.swift": {
+    "dependencies": "/root/hello-api/.build/debug/KituraNet.build/HTTP.d",
+    "object": "/root/hello-api/.build/debug/KituraNet.build/HTTP/HTTP.swift.o",
+    "swiftmodule": "/root/hello-api/.build/debug/KituraNet.build/HTTP~partial.swiftmodule",
+    "swift-dependencies": "/root/hello-api/.build/debug/KituraNet.build/HTTP.swiftdeps"
+  },
+  "/root/hello-api/.build/checkouts/Kitura-net.git--7410958935072501107/Sources/KituraNet/HTTP/HTTPServer.swift": {
+    "dependencies": "/root/hello-api/.build/debug/KituraNet.build/HTTPServer.d",
+    "object": "/root/hello-api/.build/debug/KituraNet.build/HTTP/HTTPServer.swift.o",
+    "swiftmodule": "/root/hello-api/.build/debug/KituraNet.build/HTTPServer~partial.swiftmodule",
+    "swift-dependencies": "/root/hello-api/.build/debug/KituraNet.build/HTTPServer.swiftdeps"
+  },
+  "/root/hello-api/.build/checkouts/Kitura-net.git--7410958935072501107/Sources/KituraNet/HTTP/HTTPServerRequest.swift": {
+    "dependencies": "/root/hello-api/.build/debug/KituraNet.build/HTTPServerRequest.d",
+    "object": "/root/hello-api/.build/debug/KituraNet.build/HTTP/HTTPServerRequest.swift.o",
+    "swiftmodule": "/root/hello-api/.build/debug/KituraNet.build/HTTPServerRequest~partial.swiftmodule",
+    "swift-dependencies": "/root/hello-api/.build/debug/KituraNet.build/HTTPServerRequest.swiftdeps"
+  },
+  "/root/hello-api/.build/checkouts/Kitura-net.git--7410958935072501107/Sources/KituraNet/HTTP/HTTPServerResponse.swift": {
+    "dependencies": "/root/hello-api/.build/debug/KituraNet.build/HTTPServerResponse.d",
+    "object": "/root/hello-api/.build/debug/KituraNet.build/HTTP/HTTPServerResponse.swift.o",
+    "swiftmodule": "/root/hello-api/.build/debug/KituraNet.build/HTTPServerResponse~partial.swiftmodule",
+    "swift-dependencies": "/root/hello-api/.build/debug/KituraNet.build/HTTPServerResponse.swiftdeps"
+  },
+  "/root/hello-api/.build/checkouts/Kitura-net.git--7410958935072501107/Sources/KituraNet/HTTP/IncomingHTTPSocketProcessor.swift": {
+    "dependencies": "/root/hello-api/.build/debug/KituraNet.build/IncomingHTTPSocketProcessor.d",
+    "object": "/root/hello-api/.build/debug/KituraNet.build/HTTP/IncomingHTTPSocketProcessor.swift.o",
+    "swiftmodule": "/root/hello-api/.build/debug/KituraNet.build/IncomingHTTPSocketProcessor~partial.swiftmodule",
+    "swift-dependencies": "/root/hello-api/.build/debug/KituraNet.build/IncomingHTTPSocketProcessor.swiftdeps"
+  },
+  "/root/hello-api/.build/checkouts/Kitura-net.git--7410958935072501107/Sources/KituraNet/HTTPParser/HTTPParser.swift": {
+    "dependencies": "/root/hello-api/.build/debug/KituraNet.build/HTTPParser.d",
+    "object": "/root/hello-api/.build/debug/KituraNet.build/HTTPParser/HTTPParser.swift.o",
+    "swiftmodule": "/root/hello-api/.build/debug/KituraNet.build/HTTPParser~partial.swiftmodule",
+    "swift-dependencies": "/root/hello-api/.build/debug/KituraNet.build/HTTPParser.swiftdeps"
+  },
+  "/root/hello-api/.build/checkouts/Kitura-net.git--7410958935072501107/Sources/KituraNet/HTTPParser/HTTPParserStatus.swift": {
+    "dependencies": "/root/hello-api/.build/debug/KituraNet.build/HTTPParserStatus.d",
+    "object": "/root/hello-api/.build/debug/KituraNet.build/HTTPParser/HTTPParserStatus.swift.o",
+    "swiftmodule": "/root/hello-api/.build/debug/KituraNet.build/HTTPParserStatus~partial.swiftmodule",
+    "swift-dependencies": "/root/hello-api/.build/debug/KituraNet.build/HTTPParserStatus.swiftdeps"
+  },
+  "/root/hello-api/.build/checkouts/Kitura-net.git--7410958935072501107/Sources/KituraNet/HTTPParser/ParseResults.swift": {
+    "dependencies": "/root/hello-api/.build/debug/KituraNet.build/ParseResults.d",
+    "object": "/root/hello-api/.build/debug/KituraNet.build/HTTPParser/ParseResults.swift.o",
+    "swiftmodule": "/root/hello-api/.build/debug/KituraNet.build/ParseResults~partial.swiftmodule",
+    "swift-dependencies": "/root/hello-api/.build/debug/KituraNet.build/ParseResults.swiftdeps"
+  },
+  "/root/hello-api/.build/checkouts/Kitura-net.git--7410958935072501107/Sources/KituraNet/HTTPParser/URLParser.swift": {
+    "dependencies": "/root/hello-api/.build/debug/KituraNet.build/URLParser.d",
+    "object": "/root/hello-api/.build/debug/KituraNet.build/HTTPParser/URLParser.swift.o",
+    "swiftmodule": "/root/hello-api/.build/debug/KituraNet.build/URLParser~partial.swiftmodule",
+    "swift-dependencies": "/root/hello-api/.build/debug/KituraNet.build/URLParser.swiftdeps"
+  },
+  "/root/hello-api/.build/checkouts/Kitura-net.git--7410958935072501107/Sources/KituraNet/Server/Server.swift": {
+    "dependencies": "/root/hello-api/.build/debug/KituraNet.build/Server.d",
+    "object": "/root/hello-api/.build/debug/KituraNet.build/Server/Server.swift.o",
+    "swiftmodule": "/root/hello-api/.build/debug/KituraNet.build/Server~partial.swiftmodule",
+    "swift-dependencies": "/root/hello-api/.build/debug/KituraNet.build/Server.swiftdeps"
+  },
+  "/root/hello-api/.build/checkouts/Kitura-net.git--7410958935072501107/Sources/KituraNet/Server/ServerDelegate.swift": {
+    "dependencies": "/root/hello-api/.build/debug/KituraNet.build/ServerDelegate.d",
+    "object": "/root/hello-api/.build/debug/KituraNet.build/Server/ServerDelegate.swift.o",
+    "swiftmodule": "/root/hello-api/.build/debug/KituraNet.build/ServerDelegate~partial.swiftmodule",
+    "swift-dependencies": "/root/hello-api/.build/debug/KituraNet.build/ServerDelegate.swiftdeps"
+  },
+  "/root/hello-api/.build/checkouts/Kitura-net.git--7410958935072501107/Sources/KituraNet/Server/ServerLifecycleListener.swift": {
+    "dependencies": "/root/hello-api/.build/debug/KituraNet.build/ServerLifecycleListener.d",
+    "object": "/root/hello-api/.build/debug/KituraNet.build/Server/ServerLifecycleListener.swift.o",
+    "swiftmodule": "/root/hello-api/.build/debug/KituraNet.build/ServerLifecycleListener~partial.swiftmodule",
+    "swift-dependencies": "/root/hello-api/.build/debug/KituraNet.build/ServerLifecycleListener.swiftdeps"
+  },
+  "/root/hello-api/.build/checkouts/Kitura-net.git--7410958935072501107/Sources/KituraNet/Server/ServerMonitor.swift": {
+    "dependencies": "/root/hello-api/.build/debug/KituraNet.build/ServerMonitor.d",
+    "object": "/root/hello-api/.build/debug/KituraNet.build/Server/ServerMonitor.swift.o",
+    "swiftmodule": "/root/hello-api/.build/debug/KituraNet.build/ServerMonitor~partial.swiftmodule",
+    "swift-dependencies": "/root/hello-api/.build/debug/KituraNet.build/ServerMonitor.swiftdeps"
+  },
+  "/root/hello-api/.build/checkouts/Kitura-net.git--7410958935072501107/Sources/KituraNet/Server/ServerState.swift": {
+    "dependencies": "/root/hello-api/.build/debug/KituraNet.build/ServerState.d",
+    "object": "/root/hello-api/.build/debug/KituraNet.build/Server/ServerState.swift.o",
+    "swiftmodule": "/root/hello-api/.build/debug/KituraNet.build/ServerState~partial.swiftmodule",
+    "swift-dependencies": "/root/hello-api/.build/debug/KituraNet.build/ServerState.swiftdeps"
+  }
+}

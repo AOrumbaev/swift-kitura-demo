@@ -1,0 +1,6 @@
+version: "Swift version 3.1.1 (swift-3.1.1-RELEASE)"
+options: "3124cd14754e9321c937f1b688703ffa"
+build_time: [552302371, 277401000]
+inputs:
+  "/root/hello-api/.build/checkouts/HeliumLogger--1178602847914143943/Sources/HeliumLogger/HeliumLogger.swift": [552298310, 0]
+  "/root/hello-api/.build/checkouts/HeliumLogger--1178602847914143943/Sources/HeliumLogger/HeliumStreamLogger.swift": [552298310, 0]

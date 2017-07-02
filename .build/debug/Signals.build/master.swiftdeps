@@ -1,0 +1,5 @@
+version: "Swift version 3.1.1 (swift-3.1.1-RELEASE)"
+options: "0908419877b54ea8625289d44c64ff85"
+build_time: [552302369, 709985000]
+inputs:
+  "/root/hello-api/.build/checkouts/BlueSignals.git-2166227533525592256/Sources/Signals.swift": [552301833, 0]

@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "/root/hello-api/.build/debug/TestProgram.build/master.swiftdeps"
+  },
+  "/root/hello-api/.build/checkouts/Configuration.git--2683441109504822782/Sources/TestProgram/main.swift": {
+    "dependencies": "/root/hello-api/.build/debug/TestProgram.build/main.d",
+    "object": "/root/hello-api/.build/debug/TestProgram.build/main.swift.o",
+    "swiftmodule": "/root/hello-api/.build/debug/TestProgram.build/main~partial.swiftmodule",
+    "swift-dependencies": "/root/hello-api/.build/debug/TestProgram.build/main.swiftdeps"
+  }
+}

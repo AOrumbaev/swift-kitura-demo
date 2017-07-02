@@ -1,0 +1,10 @@
+version: "Swift version 3.1.1 (swift-3.1.1-RELEASE)"
+options: "ea2797241e1757d9c1b3ca07bcc82ee9"
+build_time: [552302370, 227003000]
+inputs:
+  "/root/hello-api/.build/checkouts/Configuration.git--2683441109504822782/Sources/Configuration/ConfigurationManager.swift": [552298311, 0]
+  "/root/hello-api/.build/checkouts/Configuration.git--2683441109504822782/Sources/Configuration/ConfigurationNode.swift": [552298310, 0]
+  "/root/hello-api/.build/checkouts/Configuration.git--2683441109504822782/Sources/Configuration/Deserializer.swift": [552298311, 0]
+  "/root/hello-api/.build/checkouts/Configuration.git--2683441109504822782/Sources/Configuration/PathUtilities.swift": [552298311, 0]
+  "/root/hello-api/.build/checkouts/Configuration.git--2683441109504822782/Sources/Configuration/Deserializers/JSONDeserializer.swift": [552298311, 0]
+  "/root/hello-api/.build/checkouts/Configuration.git--2683441109504822782/Sources/Configuration/Deserializers/PLISTDeserializer.swift": [552298311, 0]

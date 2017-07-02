@@ -1,0 +1,5 @@
+version: "Swift version 3.1.1 (swift-3.1.1-RELEASE)"
+options: "c19672676c2991d4646059324607a733"
+build_time: [552302372, 144985000]
+inputs:
+  "/root/hello-api/.build/checkouts/Configuration.git--2683441109504822782/Sources/TestProgram/main.swift": [552298311, 0]

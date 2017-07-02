@@ -1,0 +1,6 @@
+version: "Swift version 3.1.1 (swift-3.1.1-RELEASE)"
+options: "2b4435d6c720bfe8e678e6bdd0bc358d"
+build_time: [552302389, 671817000]
+inputs:
+  "/root/hello-api/Sources/Controller.swift": [552302352, 0]
+  "/root/hello-api/Sources/main.swift": [552298793, 0]

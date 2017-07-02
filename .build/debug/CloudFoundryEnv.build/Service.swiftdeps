@@ -1,0 +1,133 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "Service"
+provides-nominal:
+- "C15CloudFoundryEnv7Service"
+- "CC15CloudFoundryEnv7Service7Builder"
+provides-member:
+- ["C15CloudFoundryEnv7Service", ""]
+- ["CC15CloudFoundryEnv7Service7Builder", ""]
+depends-top-level:
+- !private "??"
+- "AssignmentPrecedence"
+- "Service"
+- "String"
+- !private "StringLiteralType"
+depends-member:
+- !private ["Ps9AnyObject", "Service"]
+- !private ["Ps9AnyObject", "credentials"]
+- !private ["Ps9AnyObject", "init"]
+- !private ["Ps9AnyObject", "label"]
+- !private ["Ps9AnyObject", "name"]
+- !private ["Ps9AnyObject", "plan"]
+- !private ["Ps9AnyObject", "tags"]
+- ["Ps9AnyObject", ""]
+- ["CC15CloudFoundryEnv7Service7Builder", "Builder"]
+- ["CC15CloudFoundryEnv7Service7Builder", "Service"]
+- ["CC15CloudFoundryEnv7Service7Builder", "String"]
+- ["CC15CloudFoundryEnv7Service7Builder", "build"]
+- ["CC15CloudFoundryEnv7Service7Builder", "credentials"]
+- ["CC15CloudFoundryEnv7Service7Builder", "deinit"]
+- ["CC15CloudFoundryEnv7Service7Builder", "init"]
+- ["CC15CloudFoundryEnv7Service7Builder", "label"]
+- ["CC15CloudFoundryEnv7Service7Builder", "name"]
+- ["CC15CloudFoundryEnv7Service7Builder", "plan"]
+- ["CC15CloudFoundryEnv7Service7Builder", "setCredentials"]
+- ["CC15CloudFoundryEnv7Service7Builder", "setLabel"]
+- ["CC15CloudFoundryEnv7Service7Builder", "setName"]
+- ["CC15CloudFoundryEnv7Service7Builder", "setPlan"]
+- ["CC15CloudFoundryEnv7Service7Builder", "setTags"]
+- ["CC15CloudFoundryEnv7Service7Builder", "tags"]
+- !private ["Ps10Comparable", "init"]
+- !private ["Ps28CustomDebugStringConvertible", "init"]
+- !private ["Ps29CustomPlaygroundQuickLookable", "init"]
+- !private ["Ps17CustomReflectable", "init"]
+- !private ["Ps23CustomStringConvertible", "init"]
+- !private ["Ps9Equatable", "init"]
+- !private ["Ps43ExpressibleByExtendedGraphemeClusterLiteral", "init"]
+- !private ["Ps26ExpressibleByStringLiteral", "init"]
+- !private ["Ps33ExpressibleByUnicodeScalarLiteral", "init"]
+- !private ["Ps8Hashable", "init"]
+- !private ["Ps25LosslessStringConvertible", "init"]
+- !private ["Ps10MirrorPath", "init"]
+- ["C15CloudFoundryEnv7Service", "Builder"]
+- ["C15CloudFoundryEnv7Service", "Service"]
+- ["C15CloudFoundryEnv7Service", "String"]
+- ["C15CloudFoundryEnv7Service", "credentials"]
+- ["C15CloudFoundryEnv7Service", "deinit"]
+- ["C15CloudFoundryEnv7Service", "init"]
+- ["C15CloudFoundryEnv7Service", "label"]
+- ["C15CloudFoundryEnv7Service", "name"]
+- ["C15CloudFoundryEnv7Service", "plan"]
+- ["C15CloudFoundryEnv7Service", "tags"]
+- !private ["SS", "init"]
+- !private ["Ps16TextOutputStream", "init"]
+- !private ["Ps20TextOutputStreamable", "init"]
+- !private ["P10Foundation13_CFBridgeable", "init"]
+- !private ["Ps51_ExpressibleByBuiltinExtendedGraphemeClusterLiteral", "init"]
+- !private ["Ps34_ExpressibleByBuiltinStringLiteral", "init"]
+- !private ["Ps39_ExpressibleByBuiltinUTF16StringLiteral", "init"]
+- !private ["Ps41_ExpressibleByBuiltinUnicodeScalarLiteral", "init"]
+- !private ["Ps33_ExpressibleByStringInterpolation", "init"]
+- !private ["Ps9_Hashable", "init"]
+- !private ["P10Foundation13_NSBridgeable", "init"]
+- !private ["P10Foundation17_ObjectBridgeable", "init"]
+- !private ["P10Foundation21_ObjectTypeBridgeable", "init"]
+depends-nominal:
+- "Ps9AnyObject"
+- "CC15CloudFoundryEnv7Service7Builder"
+- !private "Ps10Comparable"
+- !private "Ps28CustomDebugStringConvertible"
+- !private "Ps29CustomPlaygroundQuickLookable"
+- !private "Ps17CustomReflectable"
+- !private "Ps23CustomStringConvertible"
+- !private "Ps9Equatable"
+- !private "Ps43ExpressibleByExtendedGraphemeClusterLiteral"
+- !private "Ps26ExpressibleByStringLiteral"
+- !private "Ps33ExpressibleByUnicodeScalarLiteral"
+- !private "Ps8Hashable"
+- !private "Ps25LosslessStringConvertible"
+- !private "Ps10MirrorPath"
+- "C15CloudFoundryEnv7Service"
+- !private "SS"
+- !private "Ps16TextOutputStream"
+- !private "Ps20TextOutputStreamable"
+- !private "P10Foundation13_CFBridgeable"
+- !private "Ps51_ExpressibleByBuiltinExtendedGraphemeClusterLiteral"
+- !private "Ps34_ExpressibleByBuiltinStringLiteral"
+- !private "Ps39_ExpressibleByBuiltinUTF16StringLiteral"
+- !private "Ps41_ExpressibleByBuiltinUnicodeScalarLiteral"
+- !private "Ps33_ExpressibleByStringInterpolation"
+- !private "Ps9_Hashable"
+- !private "P10Foundation13_NSBridgeable"
+- !private "P10Foundation17_ObjectBridgeable"
+- !private "P10Foundation21_ObjectTypeBridgeable"
+depends-dynamic-lookup:
+depends-external:
+- "/root/hello-api/.build/debug/LoggerAPI.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/Glibc.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/Dispatch.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/Foundation.swiftmodule"
+- "/root/hello-api/.build/debug/Configuration.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/Swift.swiftmodule"
+- "/usr/lib/swift/linux/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/usr/lib/swift/shims/SwiftStddef.h"
+- "/usr/lib/swift/shims/AssertionReporting.h"
+- "/usr/lib/swift/shims/SwiftStdbool.h"
+- "/usr/lib/swift/shims/RuntimeStubs.h"
+- "/usr/lib/swift/shims/LibcShims.h"
+- "/usr/lib/swift/shims/UnicodeShims.h"
+- "/usr/lib/swift/shims/RuntimeShims.h"
+- "/usr/lib/swift/shims/FoundationShims.h"
+- "/usr/lib/swift/shims/CoreFoundationShims.h"
+- "/usr/lib/swift/shims/GlobalObjects.h"
+- "/usr/lib/swift/shims/HeapObject.h"
+- "/usr/lib/swift/shims/SwiftStdint.h"
+- "/usr/lib/swift/shims/RefCount.h"
+- "/usr/lib/swift/shims/Visibility.h"
+- "/usr/lib/swift/linux/x86_64/glibc.modulemap"
+- "/root/hello-api/.build/debug/CHTTPParser.build/module.modulemap"
+- "/usr/lib/swift/dispatch/module.modulemap"
+- "/usr/lib/swift/CoreFoundation/module.modulemap"
+- "/usr/lib/swift/shims/module.modulemap"
+interface-hash: "eeb7c3a1b42f152e400911f3db3a418f"

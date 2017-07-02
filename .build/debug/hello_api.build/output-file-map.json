@@ -1,0 +1,17 @@
+{
+  "": {
+    "swift-dependencies": "/root/hello-api/.build/debug/hello_api.build/master.swiftdeps"
+  },
+  "/root/hello-api/Sources/Controller.swift": {
+    "dependencies": "/root/hello-api/.build/debug/hello_api.build/Controller.d",
+    "object": "/root/hello-api/.build/debug/hello_api.build/Controller.swift.o",
+    "swiftmodule": "/root/hello-api/.build/debug/hello_api.build/Controller~partial.swiftmodule",
+    "swift-dependencies": "/root/hello-api/.build/debug/hello_api.build/Controller.swiftdeps"
+  },
+  "/root/hello-api/Sources/main.swift": {
+    "dependencies": "/root/hello-api/.build/debug/hello_api.build/main.d",
+    "object": "/root/hello-api/.build/debug/hello_api.build/main.swift.o",
+    "swiftmodule": "/root/hello-api/.build/debug/hello_api.build/main~partial.swiftmodule",
+    "swift-dependencies": "/root/hello-api/.build/debug/hello_api.build/main.swiftdeps"
+  }
+}

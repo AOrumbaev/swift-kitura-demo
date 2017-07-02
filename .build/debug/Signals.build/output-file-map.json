@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "/root/hello-api/.build/debug/Signals.build/master.swiftdeps"
+  },
+  "/root/hello-api/.build/checkouts/BlueSignals.git-2166227533525592256/Sources/Signals.swift": {
+    "dependencies": "/root/hello-api/.build/debug/Signals.build/Signals.d",
+    "object": "/root/hello-api/.build/debug/Signals.build/Signals.swift.o",
+    "swiftmodule": "/root/hello-api/.build/debug/Signals.build/Signals~partial.swiftmodule",
+    "swift-dependencies": "/root/hello-api/.build/debug/Signals.build/Signals.swiftdeps"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "": {
+    "swift-dependencies": "/root/hello-api/.build/debug/SwiftyJSON.build/master.swiftdeps"
+  },
+  "/root/hello-api/.build/checkouts/SwiftyJSON.git--6955445084174387031/Source/LclJSONSerialization.swift": {
+    "dependencies": "/root/hello-api/.build/debug/SwiftyJSON.build/LclJSONSerialization.d",
+    "object": "/root/hello-api/.build/debug/SwiftyJSON.build/LclJSONSerialization.swift.o",
+    "swiftmodule": "/root/hello-api/.build/debug/SwiftyJSON.build/LclJSONSerialization~partial.swiftmodule",
+    "swift-dependencies": "/root/hello-api/.build/debug/SwiftyJSON.build/LclJSONSerialization.swiftdeps"
+  },
+  "/root/hello-api/.build/checkouts/SwiftyJSON.git--6955445084174387031/Source/SwiftyJSON.swift": {
+    "dependencies": "/root/hello-api/.build/debug/SwiftyJSON.build/SwiftyJSON.d",
+    "object": "/root/hello-api/.build/debug/SwiftyJSON.build/SwiftyJSON.swift.o",
+    "swiftmodule": "/root/hello-api/.build/debug/SwiftyJSON.build/SwiftyJSON~partial.swiftmodule",
+    "swift-dependencies": "/root/hello-api/.build/debug/SwiftyJSON.build/SwiftyJSON.swiftdeps"
+  }
+}

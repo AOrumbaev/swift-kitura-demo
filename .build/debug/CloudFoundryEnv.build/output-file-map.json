@@ -1,0 +1,41 @@
+{
+  "": {
+    "swift-dependencies": "/root/hello-api/.build/debug/CloudFoundryEnv.build/master.swiftdeps"
+  },
+  "/root/hello-api/.build/checkouts/Swift-cfenv--6767409976302647106/Sources/CloudFoundryEnv/App.swift": {
+    "dependencies": "/root/hello-api/.build/debug/CloudFoundryEnv.build/App.d",
+    "object": "/root/hello-api/.build/debug/CloudFoundryEnv.build/App.swift.o",
+    "swiftmodule": "/root/hello-api/.build/debug/CloudFoundryEnv.build/App~partial.swiftmodule",
+    "swift-dependencies": "/root/hello-api/.build/debug/CloudFoundryEnv.build/App.swiftdeps"
+  },
+  "/root/hello-api/.build/checkouts/Swift-cfenv--6767409976302647106/Sources/CloudFoundryEnv/AppEnv.swift": {
+    "dependencies": "/root/hello-api/.build/debug/CloudFoundryEnv.build/AppEnv.d",
+    "object": "/root/hello-api/.build/debug/CloudFoundryEnv.build/AppEnv.swift.o",
+    "swiftmodule": "/root/hello-api/.build/debug/CloudFoundryEnv.build/AppEnv~partial.swiftmodule",
+    "swift-dependencies": "/root/hello-api/.build/debug/CloudFoundryEnv.build/AppEnv.swiftdeps"
+  },
+  "/root/hello-api/.build/checkouts/Swift-cfenv--6767409976302647106/Sources/CloudFoundryEnv/CollectionUtils.swift": {
+    "dependencies": "/root/hello-api/.build/debug/CloudFoundryEnv.build/CollectionUtils.d",
+    "object": "/root/hello-api/.build/debug/CloudFoundryEnv.build/CollectionUtils.swift.o",
+    "swiftmodule": "/root/hello-api/.build/debug/CloudFoundryEnv.build/CollectionUtils~partial.swiftmodule",
+    "swift-dependencies": "/root/hello-api/.build/debug/CloudFoundryEnv.build/CollectionUtils.swiftdeps"
+  },
+  "/root/hello-api/.build/checkouts/Swift-cfenv--6767409976302647106/Sources/CloudFoundryEnv/DateUtils.swift": {
+    "dependencies": "/root/hello-api/.build/debug/CloudFoundryEnv.build/DateUtils.d",
+    "object": "/root/hello-api/.build/debug/CloudFoundryEnv.build/DateUtils.swift.o",
+    "swiftmodule": "/root/hello-api/.build/debug/CloudFoundryEnv.build/DateUtils~partial.swiftmodule",
+    "swift-dependencies": "/root/hello-api/.build/debug/CloudFoundryEnv.build/DateUtils.swiftdeps"
+  },
+  "/root/hello-api/.build/checkouts/Swift-cfenv--6767409976302647106/Sources/CloudFoundryEnv/JSONUtils.swift": {
+    "dependencies": "/root/hello-api/.build/debug/CloudFoundryEnv.build/JSONUtils.d",
+    "object": "/root/hello-api/.build/debug/CloudFoundryEnv.build/JSONUtils.swift.o",
+    "swiftmodule": "/root/hello-api/.build/debug/CloudFoundryEnv.build/JSONUtils~partial.swiftmodule",
+    "swift-dependencies": "/root/hello-api/.build/debug/CloudFoundryEnv.build/JSONUtils.swiftdeps"
+  },
+  "/root/hello-api/.build/checkouts/Swift-cfenv--6767409976302647106/Sources/CloudFoundryEnv/Service.swift": {
+    "dependencies": "/root/hello-api/.build/debug/CloudFoundryEnv.build/Service.d",
+    "object": "/root/hello-api/.build/debug/CloudFoundryEnv.build/Service.swift.o",
+    "swiftmodule": "/root/hello-api/.build/debug/CloudFoundryEnv.build/Service~partial.swiftmodule",
+    "swift-dependencies": "/root/hello-api/.build/debug/CloudFoundryEnv.build/Service.swiftdeps"
+  }
+}
